@@ -12,7 +12,16 @@ Mahibullah Siddique<br><br>Iam a frontend developer with HTML, css, bootstrap, j
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wh1t3-shadow&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wh1t3-shadow&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wh1t3-shadow&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+
+<a href="https://github.com/wh1t3-shadow">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh1t3-shadow&theme=radical&hide=glsl,python" />
+
+</a>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
