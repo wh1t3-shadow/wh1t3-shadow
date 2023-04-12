@@ -8,7 +8,14 @@
 
 
 
-### Mahibullah Siddique<br><br>
+<h3 align="center">Mahibullah Siddique</h3><br>
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-23-blue" />
+  <img src="https://img.shields.io/badge/Focus-web devolop-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-bangladesh-success" />
+  <img src="https://img.shields.io/badge/Languages-Bangla%20%26%20English-brightgreen" />
+</p>
+<br>
 * Iam a frontend developer with HTML, css, bootstrap, jQuery and backend developer with php, laravel 10.<br>
 * Currently I am learning Vue js and Ajax.<br>
 * I want to increase my skills under a professional devoloper team <br>
