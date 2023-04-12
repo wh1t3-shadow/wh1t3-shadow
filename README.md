@@ -39,14 +39,15 @@
 ### Some of the technologies I have worked with-</br>
 
 <div align="center">
+  
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![xampp](https://img.shields.io/badge/-xampp-black?style=for-the-badge&logo=xampp)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 ![phpstrome](https://img.shields.io/badge/-php--strom-black?style=for-the-badge&logo=phpstorm)
-</div>
 </br></br>
+</div>
 
 
 # 📊 GitHub Stats:
