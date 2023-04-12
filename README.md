@@ -2,7 +2,7 @@
 
 #### 🙄 Visitor count <br>
 
-  <img src="https://profile-counter.glitch.me/wh1t3-shadow/count.svg" />
+  <img src="https://profile-counter.glitch.me/wh1t3-shadow/count.svg" /><hr>
   
 # 💫 About Me:
 
@@ -42,7 +42,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh1t3-shadow&theme=radical&hide=glsl,python" />
 
-</a>
+
 
 
 ### ✍️ Random Dev Quote
